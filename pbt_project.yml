@@ -1,0 +1,59 @@
+name: georgeanna.luettgen
+description: fresh-thinking
+version: 7.5.2.101
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: georgeannaluettgen
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-24 23:15:48'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-24 23:15:48'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-24T23:15:48.870114Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1154926351'
+  createdAt: '2025-02-24T23:15:48.870114Z'
+  type: plibMaven
+projectDependencies:
+  '386':
+    projectUID: 386
+    projectName: delois.gislason
+    repositoryPath: gitUri=http://gitserver:3000/dev_xJPCaH2f_team_676/dev_xJPCaH2f_project_386.git&subPath=
+    version: delois.gislason/0.96.265
+    isDefault: false
+    author: null
+    createdAt: '2025-02-24 23:15:46'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
